@@ -1,4 +1,4 @@
-package 알쏭달쏭자바200제;
+package 알쏭달쏭자바200제.Day2;
 
 import java.util.Random;
 
