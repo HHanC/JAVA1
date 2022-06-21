@@ -1,7 +1,7 @@
 package 알쏭달쏭자바200제.Day6;
 
 import java.util.Scanner;
-
+//
 public class 문제59 {
 
     public static void main(String[] args) {
