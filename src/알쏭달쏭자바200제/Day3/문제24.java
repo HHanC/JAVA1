@@ -18,6 +18,5 @@ public class 문제24 { //3-3
             System.out.print("B는 A의 약수입니다.");
         else // 데이터가 0과 같지 않다면
             System.out.print("B는 A의 약수가 아닙니다.");
-
     }
 }
