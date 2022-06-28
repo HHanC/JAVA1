@@ -1,3 +1,4 @@
+/*
 package 알쏭달쏭자바200제.Day3;
 
 import java.util.Random;
@@ -45,3 +46,4 @@ public class 실전문제2 {
 //        System.out.print("생성한 난수는"+k+"입니다.");
 //                System.out.print("10배한 값은"+10*k+"입니다.");
 //                System.out.print("마지막 자릿수는"+k%10+"입니다.");
+*/
